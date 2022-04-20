@@ -1,6 +1,6 @@
 # BreakOutGame
 
-BreakOutGame is a clone of classic atari game that I build using canvas.js to learn javascript in a higher lvl
+BreakOutGame is a clone of classic atari game that I build using canvas.js to learn javascript in a higher level
 
 Game is simple you can use your arrow keys to play
 
